@@ -1,7 +1,9 @@
 <h1 align="center">Hello there 👋, I am Muhammed Emin Bardakcı</h1>
 <h3 align="center">I am trying to improve myself in mobile applications development.</h3>
 
-- 🌱 I’m currently learning **Swift, SwiftUI, React Native**
+- 🌱 I’m currently learning **Odoo**
+
+- 🌱 I know how to develop **Mobile Application(Swift), Website(Python, JS), ERP System(Odoo)**
 
 - 🤝 I’m looking for help with **SQL data management in Swift**
 
