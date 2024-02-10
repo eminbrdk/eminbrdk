@@ -5,7 +5,7 @@
 
 - 🌱 I know how to develop **Mobile Application(Swift), Website(Python, JS), ERP System(Odoo)**
 
-- 🤝 I’m looking for help with **SQL data management in Swift**
+- 🤝 I’m looking for help with **guidence for odoo**
 
 - 💬 Ask me about **everything**
 
